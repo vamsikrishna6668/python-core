@@ -1,0 +1,7 @@
+This is a 
+ sample program of a 
+file handling 
+in python.
+ naveen is a 
+professsor of 
+python.

@@ -1,0 +1,9 @@
+def mobile(fun):
+    return 'hello ' +fun
+def sim():
+    return 'world '
+def charger():
+    return 'to everyone'`
+#calling block
+x =mobile(sim()),(charger())
+print(x)

@@ -1,0 +1,2 @@
+from PIL import Image
+Image.open(r"C:\Users\Azeem\Pictures\Camera Roll\alluarjun.jpg")

@@ -1,0 +1,5 @@
+python is simple language
+python is object oriented programming language
+python was developed by guido van russel
+python was maintained by python software foundation
+python is casesensitive language

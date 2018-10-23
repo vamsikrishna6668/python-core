@@ -1,0 +1,7 @@
+f=open("sample.txt","r")
+val1=f.readline()
+print(val1)
+val2=f.readline()
+print(val2)
+f.close()
+print("File is not closed")

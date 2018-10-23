@@ -1,0 +1,7 @@
+a =input('enter a first no:')
+b =input('enter a second no:')
+x =int(a)
+print(type(x))
+y =int(b)
+print(type(y))
+print(x+y)

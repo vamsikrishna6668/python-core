@@ -1,0 +1,1 @@
+print(len(open(r'C:\Users\Azeem\Desktop\ismail.txt').read().split()))

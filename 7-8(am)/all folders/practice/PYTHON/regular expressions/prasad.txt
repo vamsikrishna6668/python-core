@@ -1,0 +1,6 @@
+name   address
+name	address
+prasad	hyd
+ramu	hyd
+raju	hyd
+yawanth	hyd

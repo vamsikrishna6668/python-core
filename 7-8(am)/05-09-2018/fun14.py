@@ -1,0 +1,1 @@
+#14. W.A.P on function  with parameters and with return by using the div,mul,sub,add and output is in reverse order(add,sub,mul,div) and create a object  for  addition only?

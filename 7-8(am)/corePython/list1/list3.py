@@ -1,0 +1,12 @@
+l11=[1,2,3,4,5,6,7,8,9]
+l12=[10,90,30,40,50,50,60,70,70,49]
+length=len(l12)
+print(length)
+maxmi=max(l12)
+print(maxmi)
+mini=min(l12)
+print(mini)
+sum1=sum(l12)
+print(sum1)
+total1=sum(l12)
+print(total1)

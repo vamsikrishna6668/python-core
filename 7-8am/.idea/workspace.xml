@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Advance python/different,methods/cls2.py" description="w.python()" line="39" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b19a4a7-49a3-4414-9019-6d958d5b25b9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/7_8am$no_ofcharacters1.coverage" NAME="no.ofcharacters1 Coverage Results" MODIFIED="1534498737372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/charactersinno.ofafile" />
+    <SUITE FILE_PATH="coverage/7_8am$with_return_with_parameter.coverage" NAME="with return with parameter Coverage Results" MODIFIED="1534488552369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/with parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$count_index.coverage" NAME="count,index Coverage Results" MODIFIED="1535539212303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$multipleFun2.coverage" NAME="multipleFun2 Coverage Results" MODIFIED="1534328105440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$listss.coverage" NAME="listss Coverage Results" MODIFIED="1535538798325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$list3.coverage" NAME="list3 Coverage Results" MODIFIED="1535517976840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$pf_da.coverage" NAME="pf,da Coverage Results" MODIFIED="1535523162908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/pf,da,hra" />
+    <SUITE FILE_PATH="coverage/7_8am$callingBlock_company_.coverage" NAME="callingBlock(company) Coverage Results" MODIFIED="1534324179744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opening,a Browser" />
+    <SUITE FILE_PATH="coverage/7_8am$keyword1.coverage" NAME="keyword1 Coverage Results" MODIFIED="1534325251869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keywords" />
+    <SUITE FILE_PATH="coverage/7_8am$alphabets_of_seq.coverage" NAME="alphabets,of,seq Coverage Results" MODIFIED="1534417878022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/printing a pattern of string" />
+    <SUITE FILE_PATH="coverage/7_8am$userdefinedfun2.coverage" NAME="userdefinedfun2 Coverage Results" MODIFIED="1534327197458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$no_ofvariables5.coverage" NAME="no.ofvariables5 Coverage Results" MODIFIED="1534498772903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/charactersinno.ofafile" />
+    <SUITE FILE_PATH="coverage/7_8am$pf_da_with_default_parameters.coverage" NAME="pf,da,with default parameters Coverage Results" MODIFIED="1535524777636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/pf,da,hra" />
+    <SUITE FILE_PATH="coverage/7_8am$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1535620102749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018/imported pgms" />
+    <SUITE FILE_PATH="coverage/7_8am$with_return_add_sub_mul_.coverage" NAME="with return(add,sub,mul) Coverage Results" MODIFIED="1534334905634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/without parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$list2.coverage" NAME="list2 Coverage Results" MODIFIED="1534827759120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types" />
+    <SUITE FILE_PATH="coverage/7_8am$pattern1.coverage" NAME="pattern1 Coverage Results" MODIFIED="1534913420977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/patternmatching" />
+    <SUITE FILE_PATH="coverage/7_8am$immutable2.coverage" NAME="immutable2 Coverage Results" MODIFIED="1534502850838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/immutableselements" />
+    <SUITE FILE_PATH="coverage/7_8am$clear.coverage" NAME="clear Coverage Results" MODIFIED="1535179619504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$overriding.coverage" NAME="overriding Coverage Results" MODIFIED="1535458923150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/method overriding" />
+    <SUITE FILE_PATH="coverage/7_8am$swaping_pgm.coverage" NAME="swaping,pgm Coverage Results" MODIFIED="1534308934641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python" />
+    <SUITE FILE_PATH="coverage/7_8am$multipleFun3.coverage" NAME="multipleFun3 Coverage Results" MODIFIED="1534328396413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$no_ofvariable2.coverage" NAME="no.ofvariable2 Coverage Results" MODIFIED="1534498755919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/charactersinno.ofafile" />
+    <SUITE FILE_PATH="coverage/7_8am$complex.coverage" NAME="complex Coverage Results" MODIFIED="1534324800659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InputFunction" />
+    <SUITE FILE_PATH="coverage/7_8am$global1.coverage" NAME="global1 Coverage Results" MODIFIED="1534356043993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$para_return3.coverage" NAME="para+return3 Coverage Results" MODIFIED="1534488728574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/with parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$raw_string.coverage" NAME="raw string Coverage Results" MODIFIED="1534480672438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/PIL Image" />
+    <SUITE FILE_PATH="coverage/7_8am$userdefinedfun3.coverage" NAME="userdefinedfun3 Coverage Results" MODIFIED="1534327373727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$with_return_2.coverage" NAME="with return 2 Coverage Results" MODIFIED="1534333245265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/without parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$abstractcls.coverage" NAME="abstractcls Coverage Results" MODIFIED="1535689490709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018/abstract class&amp;method" />
+    <SUITE FILE_PATH="coverage/7_8am$remove.coverage" NAME="remove Coverage Results" MODIFIED="1535178728836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$functions.coverage" NAME="functions Coverage Results" MODIFIED="1535648825601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$company.coverage" NAME="company Coverage Results" MODIFIED="1534324173478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opening,a Browser" />
+    <SUITE FILE_PATH="coverage/7_8am$image6.coverage" NAME="image6 Coverage Results" MODIFIED="1534915819000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/PIL Image" />
+    <SUITE FILE_PATH="coverage/7_8am$default_arguments.coverage" NAME="default arguments Coverage Results" MODIFIED="1534418307481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/function with named or keyword arguments" />
+    <SUITE FILE_PATH="coverage/7_8am$dict2.coverage" NAME="dict2 Coverage Results" MODIFIED="1535163296368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/dict" />
+    <SUITE FILE_PATH="coverage/7_8am$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1534421890973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/from import&amp;import" />
+    <SUITE FILE_PATH="coverage/7_8am$immutable_elements.coverage" NAME="immutable elements Coverage Results" MODIFIED="1534502835868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/immutableselements" />
+    <SUITE FILE_PATH="coverage/7_8am$keyword2.coverage" NAME="keyword2 Coverage Results" MODIFIED="1534503002879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keywords" />
+    <SUITE FILE_PATH="coverage/7_8am$class__1_.coverage" NAME="class (1) Coverage Results" MODIFIED="1534986885819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/different,methods" />
+    <SUITE FILE_PATH="coverage/7_8am$funAdd1.coverage" NAME="funAdd1 Coverage Results" MODIFIED="1534330489319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$numofdiff.coverage" NAME="numofdiff Coverage Results" MODIFIED="1534502384463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/printing a pattern of string" />
+    <SUITE FILE_PATH="coverage/7_8am$webbrowser.coverage" NAME="webbrowser Coverage Results" MODIFIED="1534915935340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opening,a Browser" />
+    <SUITE FILE_PATH="coverage/7_8am$funAdd.coverage" NAME="funAdd Coverage Results" MODIFIED="1534330209299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$alphabetsseQ.coverage" NAME="alphabetsseQ Coverage Results" MODIFIED="1534502697279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/printing a pattern of string" />
+    <SUITE FILE_PATH="coverage/7_8am$list7.coverage" NAME="list7 Coverage Results" MODIFIED="1535176164226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$input1fun_add.coverage" NAME="input1fun,add Coverage Results" MODIFIED="1534315586267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InputFunction" />
+    <SUITE FILE_PATH="coverage/7_8am$funAdd4.coverage" NAME="funAdd4 Coverage Results" MODIFIED="1534331298190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$webbroswer1.coverage" NAME="webbroswer1 Coverage Results" MODIFIED="1534915917930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opening,a Browser" />
+    <SUITE FILE_PATH="coverage/7_8am$variable1.coverage" NAME="variable1 Coverage Results" MODIFIED="1534310375891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/variablesofbiggervalues" />
+    <SUITE FILE_PATH="coverage/7_8am$default_positional_arguments.coverage" NAME="default&amp;positional arguments Coverage Results" MODIFIED="1534418700223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/function with named or keyword arguments" />
+    <SUITE FILE_PATH="coverage/7_8am$Image1.coverage" NAME="Image1 Coverage Results" MODIFIED="1534915840073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/PIL Image" />
+    <SUITE FILE_PATH="coverage/7_8am$pop.coverage" NAME="pop Coverage Results" MODIFIED="1535179386985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$insert.coverage" NAME="insert Coverage Results" MODIFIED="1535178216314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$positional_arguments.coverage" NAME="positional arguments Coverage Results" MODIFIED="1534416944071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/function with named or keyword arguments" />
+    <SUITE FILE_PATH="coverage/7_8am$demo2__1_.coverage" NAME="demo2 (1) Coverage Results" MODIFIED="1534480494120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/from import&amp;import/from import2" />
+    <SUITE FILE_PATH="coverage/7_8am$global5.coverage" NAME="global5 Coverage Results" MODIFIED="1534414477042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$no_ofcharacters.coverage" NAME="no.ofcharacters Coverage Results" MODIFIED="1534498712215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/charactersinno.ofafile" />
+    <SUITE FILE_PATH="coverage/7_8am$keywordsList.coverage" NAME="keywordsList Coverage Results" MODIFIED="1534322620994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opening,a Browser" />
+    <SUITE FILE_PATH="coverage/7_8am$pattern1__1_.coverage" NAME="pattern1 (1) Coverage Results" MODIFIED="1534914890942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/printing a pattern of string" />
+    <SUITE FILE_PATH="coverage/7_8am$samevariables.coverage" NAME="samevariables Coverage Results" MODIFIED="1534503820816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variablesofsamevalues" />
+    <SUITE FILE_PATH="coverage/7_8am$with_return.coverage" NAME="with return Coverage Results" MODIFIED="1534332756352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/without parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$int_number.coverage" NAME="int number Coverage Results" MODIFIED="1534324601875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InputFunction" />
+    <SUITE FILE_PATH="coverage/7_8am$swap2.coverage" NAME="swap2 Coverage Results" MODIFIED="1534309469368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python" />
+    <SUITE FILE_PATH="coverage/7_8am$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1534441666495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/from import&amp;import/from import2" />
+    <SUITE FILE_PATH="coverage/7_8am$tuple5.coverage" NAME="tuple5 Coverage Results" MODIFIED="1534845911778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$list4.coverage" NAME="list4 Coverage Results" MODIFIED="1534831561959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types" />
+    <SUITE FILE_PATH="coverage/7_8am$printStars.coverage" NAME="printStars Coverage Results" MODIFIED="1534914720074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/printing a pattern of string" />
+    <SUITE FILE_PATH="coverage/7_8am$listed.coverage" NAME="listed Coverage Results" MODIFIED="1535470252405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$multipleFun6.coverage" NAME="multipleFun6 Coverage Results" MODIFIED="1534329950780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$multipleFun1.coverage" NAME="multipleFun1 Coverage Results" MODIFIED="1534327817249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$singlequotes1.coverage" NAME="singlequotes1 Coverage Results" MODIFIED="1534313230542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/7_8am$swap3.coverage" NAME="swap3 Coverage Results" MODIFIED="1534309671402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python" />
+    <SUITE FILE_PATH="coverage/7_8am$no_ofcharacters4.coverage" NAME="no.ofcharacters4 Coverage Results" MODIFIED="1534498746309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/charactersinno.ofafile" />
+    <SUITE FILE_PATH="coverage/7_8am$multipleFun5.coverage" NAME="multipleFun5 Coverage Results" MODIFIED="1534329069314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$para_return1.coverage" NAME="para+return1 Coverage Results" MODIFIED="1534347866869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/with parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$username_pwd.coverage" NAME="username,pwd Coverage Results" MODIFIED="1535633169409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$company_callingBlock_.coverage" NAME="company(callingBlock) Coverage Results" MODIFIED="1534324022476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opening,a Browser" />
+    <SUITE FILE_PATH="coverage/7_8am$user_pwd.coverage" NAME="user,pwd Coverage Results" MODIFIED="1535630671292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$extend.coverage" NAME="extend Coverage Results" MODIFIED="1535176982080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$global3.coverage" NAME="global3 Coverage Results" MODIFIED="1534412371246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$tuple2.coverage" NAME="tuple2 Coverage Results" MODIFIED="1534843916503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$cls_self_static.coverage" NAME="cls,self,static Coverage Results" MODIFIED="1534986938913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/different,methods" />
+    <SUITE FILE_PATH="coverage/7_8am$int_function.coverage" NAME="int function Coverage Results" MODIFIED="1534500005015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conversion,ofstr,toint" />
+    <SUITE FILE_PATH="coverage/7_8am$Tuple.coverage" NAME="Tuple Coverage Results" MODIFIED="1534834843669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$image4.coverage" NAME="image4 Coverage Results" MODIFIED="1534846832430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/PIL Image" />
+    <SUITE FILE_PATH="coverage/7_8am$float.coverage" NAME="float Coverage Results" MODIFIED="1534324676845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InputFunction" />
+    <SUITE FILE_PATH="coverage/7_8am$bool.coverage" NAME="bool Coverage Results" MODIFIED="1534502885903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InputFunction" />
+    <SUITE FILE_PATH="coverage/7_8am$thriple_doubleQuotes.coverage" NAME="thriple,doubleQuotes Coverage Results" MODIFIED="1534313754800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/7_8am$positional_argumets.coverage" NAME="positional argumets Coverage Results" MODIFIED="1534416610459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$callingBlock.coverage" NAME="callingBlock Coverage Results" MODIFIED="1534324401357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opening,a Browser" />
+    <SUITE FILE_PATH="coverage/7_8am$pattern3.coverage" NAME="pattern3 Coverage Results" MODIFIED="1534915331195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/patternmatching" />
+    <SUITE FILE_PATH="coverage/7_8am$cls2.coverage" NAME="cls2 Coverage Results" MODIFIED="1535538959741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/different,methods" />
+    <SUITE FILE_PATH="coverage/7_8am$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1534420252669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/from import&amp;import" />
+    <SUITE FILE_PATH="coverage/7_8am$user_passwordfield.coverage" NAME="user,passwordfield Coverage Results" MODIFIED="1535643140035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$diff_local_parameter.coverage" NAME="diff,local&amp;parameter Coverage Results" MODIFIED="1534415619522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$listed123.coverage" NAME="listed123 Coverage Results" MODIFIED="1535649349846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$with_return3.coverage" NAME="with return3 Coverage Results" MODIFIED="1534335309984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/without parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$alphabets_ofseq1.coverage" NAME="alphabets,ofseq1 Coverage Results" MODIFIED="1534402303612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/printing a pattern of string" />
+    <SUITE FILE_PATH="coverage/7_8am$tuple3.coverage" NAME="tuple3 Coverage Results" MODIFIED="1534844708232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$funAdd3.coverage" NAME="funAdd3 Coverage Results" MODIFIED="1534330713228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$image5.coverage" NAME="image5 Coverage Results" MODIFIED="1534849378976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/PIL Image" />
+    <SUITE FILE_PATH="coverage/7_8am$with_parameter2.coverage" NAME="with parameter2 Coverage Results" MODIFIED="1534332265860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/with parameter and without return" />
+    <SUITE FILE_PATH="coverage/7_8am$global2.coverage" NAME="global2 Coverage Results" MODIFIED="1534357283442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$staticmethod.coverage" NAME="staticmethod Coverage Results" MODIFIED="1535173952100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/different,methods" />
+    <SUITE FILE_PATH="coverage/7_8am$str_to_bool.coverage" NAME="str to bool Coverage Results" MODIFIED="1534500713738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conversion,ofstr,toint" />
+    <SUITE FILE_PATH="coverage/7_8am$usd_pwd.coverage" NAME="usd,pwd Coverage Results" MODIFIED="1535644051784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$with_return1_packing_.coverage" NAME="with return1(packing) Coverage Results" MODIFIED="1534339551019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/without parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$local_variable1.coverage" NAME="local variable1 Coverage Results" MODIFIED="1534414115802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$variable_bigger.coverage" NAME="variable,bigger Coverage Results" MODIFIED="1534310271734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/variablesofbiggervalues" />
+    <SUITE FILE_PATH="coverage/7_8am$thriple_singlequotes.coverage" NAME="thriple,singlequotes Coverage Results" MODIFIED="1534313544438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/7_8am$list6.coverage" NAME="list6 Coverage Results" MODIFIED="1535538844958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$samevaluesandsamememoryaddress.coverage" NAME="samevaluesandsamememoryaddress Coverage Results" MODIFIED="1534504292978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variablesofsamevalues" />
+    <SUITE FILE_PATH="coverage/7_8am$parameters.coverage" NAME="parameters Coverage Results" MODIFIED="1534415217970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$numofsame.coverage" NAME="numofsame Coverage Results" MODIFIED="1534502275131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/printing a pattern of string" />
+    <SUITE FILE_PATH="coverage/7_8am$display.coverage" NAME="display Coverage Results" MODIFIED="1534422204275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/from import&amp;import/from import1" />
+    <SUITE FILE_PATH="coverage/7_8am$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1535624014820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$funAdd2.coverage" NAME="funAdd2 Coverage Results" MODIFIED="1534330882559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$numofsequence.coverage" NAME="numofsequence Coverage Results" MODIFIED="1534502107088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/printing a pattern of string" />
+    <SUITE FILE_PATH="coverage/7_8am$over_loading.coverage" NAME="over loading Coverage Results" MODIFIED="1535616026352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$dicti1.coverage" NAME="dicti1 Coverage Results" MODIFIED="1535162281326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/dict" />
+    <SUITE FILE_PATH="coverage/7_8am$tupless.coverage" NAME="tupless Coverage Results" MODIFIED="1535539115458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$with_parameter1.coverage" NAME="with parameter1 Coverage Results" MODIFIED="1534331819807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/with parameter and without return" />
+    <SUITE FILE_PATH="coverage/7_8am$with_return1.coverage" NAME="with return1 Coverage Results" MODIFIED="1534332872885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/without parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$tuples.coverage" NAME="tuples Coverage Results" MODIFIED="1535470973742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$double_quotes.coverage" NAME="double,quotes Coverage Results" MODIFIED="1534313391732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/7_8am$strToInt.coverage" NAME="strToInt Coverage Results" MODIFIED="1534325020663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InputFunction" />
+    <SUITE FILE_PATH="coverage/7_8am$sequence_of_numbers.coverage" NAME="sequence of numbers Coverage Results" MODIFIED="1534850594805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7_8am$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1534420032804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/from import&amp;import" />
+    <SUITE FILE_PATH="coverage/7_8am$str_to_int.coverage" NAME="str,to,int Coverage Results" MODIFIED="1534316294637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conversion,ofstr,toint" />
+    <SUITE FILE_PATH="coverage/7_8am$str_to_float.coverage" NAME="str to float Coverage Results" MODIFIED="1534499767645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conversion,ofstr,toint" />
+    <SUITE FILE_PATH="coverage/7_8am$tuple1.coverage" NAME="tuple1 Coverage Results" MODIFIED="1534843526858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$combination_of_allQuotes.coverage" NAME="combination,of,allQuotes Coverage Results" MODIFIED="1534314134962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/7_8am$int1.coverage" NAME="int1 Coverage Results" MODIFIED="1534325177524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InputFunction" />
+    <SUITE FILE_PATH="coverage/7_8am$with_return_packing_.coverage" NAME="with return(packing) Coverage Results" MODIFIED="1534339325109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/without parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$index.coverage" NAME="index Coverage Results" MODIFIED="1535451280172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/List" />
+    <SUITE FILE_PATH="coverage/7_8am$username_default.coverage" NAME="username,default Coverage Results" MODIFIED="1535642082243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$tuple4.coverage" NAME="tuple4 Coverage Results" MODIFIED="1534845399866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types/Tuple1" />
+    <SUITE FILE_PATH="coverage/7_8am$swap1.coverage" NAME="swap1 Coverage Results" MODIFIED="1534309041940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python" />
+    <SUITE FILE_PATH="coverage/7_8am$global.coverage" NAME="global Coverage Results" MODIFIED="1534355362923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$list5.coverage" NAME="list5 Coverage Results" MODIFIED="1534832515456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types" />
+    <SUITE FILE_PATH="coverage/7_8am$multiple_inheritance.coverage" NAME="multiple inheritance Coverage Results" MODIFIED="1535611667473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1535621366084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/from import&amp;import/from import 1" />
+    <SUITE FILE_PATH="coverage/7_8am$withparameter.coverage" NAME="withparameter Coverage Results" MODIFIED="1534331680430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/with parameter and without return" />
+    <SUITE FILE_PATH="coverage/7_8am$input2.coverage" NAME="input2 Coverage Results" MODIFIED="1534316002539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InputFunction" />
+    <SUITE FILE_PATH="coverage/7_8am$overload.coverage" NAME="overload Coverage Results" MODIFIED="1535604723259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/overloading" />
+    <SUITE FILE_PATH="coverage/7_8am$userdefinedfun1.coverage" NAME="userdefinedfun1 Coverage Results" MODIFIED="1534327092269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$username_password.coverage" NAME="username,password Coverage Results" MODIFIED="1535630888073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$samevariables1.coverage" NAME="samevariables1 Coverage Results" MODIFIED="1534503978271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variablesofsamevalues" />
+    <SUITE FILE_PATH="coverage/7_8am$cls3.coverage" NAME="cls3 Coverage Results" MODIFIED="1535173151045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/different,methods" />
+    <SUITE FILE_PATH="coverage/7_8am$listed1.coverage" NAME="listed1 Coverage Results" MODIFIED="1535627650053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/30-8-2018" />
+    <SUITE FILE_PATH="coverage/7_8am$mutipleFun4.coverage" NAME="mutipleFun4 Coverage Results" MODIFIED="1534328490196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/7_8am$str_to_complex.coverage" NAME="str to complex Coverage Results" MODIFIED="1534501448638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conversion,ofstr,toint" />
+    <SUITE FILE_PATH="coverage/7_8am$para_return.coverage" NAME="para+return Coverage Results" MODIFIED="1534346320589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions/with parameter with return" />
+    <SUITE FILE_PATH="coverage/7_8am$image3.coverage" NAME="image3 Coverage Results" MODIFIED="1534846678179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/PIL Image" />
+    <SUITE FILE_PATH="coverage/7_8am$no_ofvariables3.coverage" NAME="no.ofvariables3 Coverage Results" MODIFIED="1534312160417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/charactersinno.ofafile" />
+    <SUITE FILE_PATH="coverage/7_8am$local_variable.coverage" NAME="local variable Coverage Results" MODIFIED="1534413676780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+    <SUITE FILE_PATH="coverage/7_8am$sample.coverage" NAME="sample Coverage Results" MODIFIED="1535619142407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/from import&amp;import/from import 1" />
+    <SUITE FILE_PATH="coverage/7_8am$class.coverage" NAME="class Coverage Results" MODIFIED="1534918814753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advance python/class,method" />
+    <SUITE FILE_PATH="coverage/7_8am$singlecharacter.coverage" NAME="singlecharacter Coverage Results" MODIFIED="1534312624268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
+    <SUITE FILE_PATH="coverage/7_8am$List.coverage" NAME="List Coverage Results" MODIFIED="1534488390112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/collections types" />
+    <SUITE FILE_PATH="coverage/7_8am$Image2_open.coverage" NAME="Image2 open Coverage Results" MODIFIED="1534915862315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/PIL Image" />
+    <SUITE FILE_PATH="coverage/7_8am$int_in_single_stmt.coverage" NAME="int in single stmt Coverage Results" MODIFIED="1534321295242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conversion,ofstr,toint" />
+    <SUITE FILE_PATH="coverage/7_8am$global4.coverage" NAME="global4 Coverage Results" MODIFIED="1534413105303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core,python/Global,local,parameters" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="83884980">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="38" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.51" value="2" />
+          <entry key="project.open.time.52" value="5" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.54" value="2" />
+          <entry key="project.open.time.55" value="4" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.57" value="2" />
+          <entry key="project.open.time.59" value="2" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.opened" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="241" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="241" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="101" />
+          <entry key="py" value="42380" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="101" />
+          <entry key="Python" value="42380" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="7-8am" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <marker date="1535648253859" expanded="true" signature="16:21" ph="..." />
+                <marker date="1535648253859" expanded="true" signature="51:56" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/listed123.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/abstract class&amp;method/abstractcls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advance python/31-8-2018/abstractmethod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1535694693323" expanded="true" signature="52:57" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/user,pwd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core,python/patternmatching/pattern1.py" />
+        <option value="$PROJECT_DIR$/core,python/printing a pattern of string/printStars.py" />
+        <option value="$PROJECT_DIR$/core,python/printing a pattern of string/pattern1.py" />
+        <option value="$PROJECT_DIR$/core,python/patternmatching/pattern3.py" />
+        <option value="$PROJECT_DIR$/Advance python/class,method/class.py" />
+        <option value="$PROJECT_DIR$/Advance python/different,methods/cls2.py" />
+        <option value="$PROJECT_DIR$/Advance python/different,methods/cls3.py" />
+        <option value="$PROJECT_DIR$/Advance python/different,methods/class.py" />
+        <option value="$PROJECT_DIR$/Advance python/different,methods/cls,self,static.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/dict/dicti1.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/dict/dict2.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/list6.py" />
+        <option value="$PROJECT_DIR$/Advance python/different,methods/staticmethod.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/list7.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/extend.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/list8.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/insert.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/remove.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/pop.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/clear.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/index.py" />
+        <option value="$PROJECT_DIR$/Advance python/method overriding/overriding.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/listed.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/Tuple1/tuples.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/list3.py" />
+        <option value="$PROJECT_DIR$/Advance python/pf,da,hra/pf,da.py" />
+        <option value="$PROJECT_DIR$/Advance python/pf,da,hra/pf,da,with default parameters.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/Tuple1/tupless.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/Tuple1/count,index.py" />
+        <option value="$PROJECT_DIR$/Advance python/overloading/overload.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/multiple inheritance.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/over riding.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/over loading.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/user,pwd.py" />
+        <option value="$PROJECT_DIR$/core,python/from import&amp;import/from import 1/sample.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/imported pgms/demo1.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/imported pgms/sample.py" />
+        <option value="$PROJECT_DIR$/core,python/from import&amp;import/from import 1/demo1.py" />
+        <option value="$PROJECT_DIR$/imported pgms/sample.py" />
+        <option value="$PROJECT_DIR$/core,python/collections types/List/listss.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/list1.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/listed1.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/username,password.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/username,pwd.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/username,default.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/user,passwordfield.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/usd,pwd.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/functions.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/listed123.py" />
+        <option value="$PROJECT_DIR$/Advance python/30-8-2018/abstract class&amp;method/abstractcls.py" />
+        <option value="$PROJECT_DIR$/Advance python/31-8-2018/abstractmethod.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="y" value="40" />
+    <option name="width" value="1284" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="Advance python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="Advance python" type="462c0819:PsiDirectoryNode" />
+              <item name="31-8-2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="core,python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="core,python" type="462c0819:PsiDirectoryNode" />
+              <item name="collections types" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="core,python" type="462c0819:PsiDirectoryNode" />
+              <item name="collections types" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="immutableselements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="imported pgms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="InputFunction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="keywords" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="opening,a Browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7-8am" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7-8am" type="462c0819:PsiDirectoryNode" />
+              <item name="variablesofsamevalues" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Azeem\PycharmProjects\7-8am" />
+      <recent name="C:\Users\Azeem\PycharmProjects\7-8am\core,python\collections types\Tuple1" />
+      <recent name="C:\Users\Azeem\PycharmProjects\7-8am\core,python\collections types\List" />
+      <recent name="C:\Users\Azeem\PycharmProjects\7-8am\core,python\charactersinno.ofafile1" />
+      <recent name="C:\Users\Azeem\PycharmProjects\7-8am\core,python\charactersinno.ofafile" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.abstractcls">
+    <configuration name="abstractcls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="7-8am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advance python/30-8-2018/abstract class&amp;method" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advance python/30-8-2018/abstract class&amp;method/abstractcls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="7-8am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advance python/30-8-2018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advance python/30-8-2018/functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listed123" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="7-8am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advance python/30-8-2018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advance python/30-8-2018/listed123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="usd,pwd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="7-8am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advance python/30-8-2018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advance python/30-8-2018/usd,pwd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user,passwordfield" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="7-8am" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advance python/30-8-2018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advance python/30-8-2018/user,passwordfield.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.abstractcls" />
+      <item itemvalue="Python.user,passwordfield" />
+      <item itemvalue="Python.usd,pwd" />
+      <item itemvalue="Python.functions" />
+      <item itemvalue="Python.listed123" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.abstractcls" />
+        <item itemvalue="Python.listed123" />
+        <item itemvalue="Python.functions" />
+        <item itemvalue="Python.usd,pwd" />
+        <item itemvalue="Python.user,passwordfield" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b19a4a7-49a3-4414-9019-6d958d5b25b9" name="Default Changelist" comment="" />
+      <created>1534307855110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534307855110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4975728" visible="true" weight="0.45537066" />
+      <window_info id="Favorites" order="1" sideWeight="0.50242716" side_tool="true" weight="0.38426626" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3927987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.0015873016" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core,python/PIL Image/Image2 open.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/PIL Image/image6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/PIL Image/Image1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/patternmatching/pattern3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/different,methods/class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/different,methods/cls,self,static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/dict/dicti1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/list4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/list5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/dict/dict2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/different,methods/cls3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/different,methods/staticmethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/clear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/list7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/extend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/remove.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/pop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/list1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/list2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/list3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/pf,da,hra/pf,da,with default parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/listed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/Tuple1/tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/method overriding/overriding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/different,methods/cls2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="58" lean-forward="true" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/pf,da,hra/pf,da.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/list6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/overloading/overload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/Tuple1/count,index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/from import&amp;import/from import 1/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imported pgms/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/multiple inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/Tuple1/tupless.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/over loading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/list1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/listed1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/collections types/List/listss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imported pgms/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core,python/from import&amp;import/from import 1/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/username,pwd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/username,password.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/username,default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/user,passwordfield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/usd,pwd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1535648253859" expanded="true" signature="16:21" ph="..." />
+            <marker date="1535648253859" expanded="true" signature="51:56" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/listed123.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/abstract class&amp;method/abstractcls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/30-8-2018/user,pwd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advance python/31-8-2018/abstractmethod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1535694693323" expanded="true" signature="52:57" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

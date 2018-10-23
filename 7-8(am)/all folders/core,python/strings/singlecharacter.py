@@ -1,0 +1,13 @@
+a ='ismail'
+b ='basha'
+c ='anji'
+d ='babu'
+e ='satish'
+f ='sai teja'
+g ='harsha'
+h ='rakesh'
+i ='chanti'
+j ='balaram'
+k ='vamsi'
+l ='rajesh'
+print(a,b,c,d,e,f,g,h,i,j,k,l)

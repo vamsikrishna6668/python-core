@@ -1,0 +1,4 @@
+from pil import image as im
+img =im.open("ismail.png")
+print(img.size)
+print(img.format)
